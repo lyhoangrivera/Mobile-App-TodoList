@@ -1,4 +1,4 @@
-# final_project_todo_list
+## My First Mobile App _ Minimal TodoList Flutter
 
 A new Flutter project.
 
